@@ -1,2 +1,2 @@
-# rebuildName
+# RebuildName
 在使用springcloud的服务注册与发现过程中，随着业务发展会有很多个eureka-client向eureka-server注册，某些相同的erureka-client需要部署到不同集群上，如果client的注册名和所在集群相关就能更好的管理服务模块
