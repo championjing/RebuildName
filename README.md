@@ -7,6 +7,7 @@
  举例：
 
  app.cluster=one
+ 
  spring.application.name=${app.cluster}_own
  
  现在的spring.application.name就是配置项app.cluster+"_own"的组合
